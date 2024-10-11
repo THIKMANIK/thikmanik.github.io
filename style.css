@@ -59,7 +59,7 @@
       .navitor a {
         font-size: 2rem; /* Adjust the size as desired */
         color: white; /* Set color to match your name */
-        font-weight: 700; /* Optionally add more weight for better visibility */
+        font-weight: 700; /* Optionally add more wei
         transition: 0.3s ease;
     }
     
@@ -98,7 +98,6 @@
 
 
       section {
-        min-height: 100vh;
         padding: 10rem 12% 10rem;
       }
       
@@ -229,7 +228,7 @@
 
 
       .education {
-        padding: 10rem 12% 10rem;
+        padding: 5%;
         color: var(--text-color);
     }
     
@@ -247,6 +246,9 @@
         margin: 1rem 0;
     }
     
+    #contact{
+      font-size: large;
+    }
 
       
       
